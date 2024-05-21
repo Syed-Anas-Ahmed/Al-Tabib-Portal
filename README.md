@@ -10,3 +10,7 @@
 ## Patients Tab
 
 https://github.com/Syed-Anas-Ahmed/Al-Tabib-Portal/assets/32031027/d28d34c7-0b54-492a-93cc-8197ecdeda5e
+
+## Book Appointment from Portal
+
+https://github.com/Syed-Anas-Ahmed/Al-Tabib-Portal/assets/32031027/315d61ea-c148-4dce-b993-77a4a59fb333
